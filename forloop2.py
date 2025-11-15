@@ -14,5 +14,6 @@ print("range with only stop")
 for i in range(6):
     print(i)
 print("range with start,stop & step")
+#range(start,stop,step)
 for i in range(2,11,2):
     print(i)
