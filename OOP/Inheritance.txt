@@ -1,0 +1,12 @@
+Inheritance
+
+child class deriving properties from parent class
+attributes & methods
+
+1. Single 
+2. Multi Level -
+grand parent, parent, child
+3. Multiple
+Father, Mother, Child
+4. Hierarchical
+Father/Mother, Child1, Child2, childn

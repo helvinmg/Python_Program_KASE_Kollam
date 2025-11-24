@@ -1,0 +1,7 @@
+Polymorphism
+
+1. Function Overloading - No
+   Method Overloading - Method with same name in multiple classes
+2. Operator Overloading - Yes - Magic Method/Dunder Method - __add__
+3. Method overriding
+   Inheritance - Child class method over riding parent method when they are 2 copies of same method

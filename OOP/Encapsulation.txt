@@ -1,0 +1,8 @@
+Encapsulation
+
+Wrapping process - Capsuling Process
+Wrapping data and related methods
+
+A class is an implementation of encapsulation
+
+Data Hiding
