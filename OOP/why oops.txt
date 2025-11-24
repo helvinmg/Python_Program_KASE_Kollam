@@ -1,0 +1,8 @@
+Easy to implement real world objects
+- Relations
+Focus is on data
+Security
+Code Reusability
+
+data - attributes
+behaviour - methods

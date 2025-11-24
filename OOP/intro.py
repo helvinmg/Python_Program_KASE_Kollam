@@ -2,7 +2,7 @@ class Student:
     #class attribute/variables
     #one copy is shared among all objects
     course="MERN"
-    def disp():
+    def disp(self):
         print("Course: ",self.course)
 
 anson=Student()
