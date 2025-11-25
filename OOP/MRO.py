@@ -8,7 +8,7 @@ class Parent2:
         print("these are the parent details")
     def test(self):
         print("test of parent2")
-class Child(Parent2,Parent1):
+class Child(Parent2,Parent1):#order is imp
     def childDetails(self):
         print("these are the child details")
 
